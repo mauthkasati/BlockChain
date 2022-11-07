@@ -50,7 +50,7 @@ public class App {
 
                 // testing blockchain and show its content
                 for (int i = 0; i < blockchain.size(); i++) {
-                        System.out.println(blockchain.get(i).toSting());
+                        System.out.println(blockchain.get(i).toString());
                 }
 
                 // check validity of blockchain
