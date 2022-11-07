@@ -1,7 +1,7 @@
 # hashlib is module implements a common interface to many different secure hash and message digest algorithms.
 import hashlib
 
-# class Block which has two parameters transaction_list, previous_block_hash, block_data and block_hash
+# class Block which has four parameters transaction_list, previous_block_hash, block_data and block_hash
 # 1- transaction_list is a list of messages or transactions we want to sned via blockchain
 # 2- hash is a hash value for the current block
 # 3- previous_block_hash is a hash value of previous block
