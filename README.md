@@ -1,9 +1,9 @@
 # BlockChain
 ------------------------------------
 ## This reposatory contains four solutions :
-1- java : simple blockchain\n
-2- java : block chain with proof of work\n
-3- python : simple blochchain\n
+1- java : simple blockchain<br />
+2- java : block chain with proof of work<br />
+3- python : simple blochchain<br />
 4- python : blockchain with proof of work
 ------------------------------------
 ## I understood all previous codes and test them on VS code
